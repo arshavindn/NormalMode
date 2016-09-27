@@ -2,6 +2,7 @@ Open any file in NORMAL (Readonly) mode. This plugin based on Toggle the View Re
 
 ## Installation
 Install this repository via [Package Control](http://wbond.net/sublime_packages/package_control)
+
 Or put the files into a directory in your {sublime}\Data\Packages\ folder
 
 ## Usage
