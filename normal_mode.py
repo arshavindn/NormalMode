@@ -23,6 +23,7 @@ def enable_normal_mode_check(view):
   if view.settings().get('is_widget') is None:
     enable_normal_mode(view)
 
+
 def disable_normal_mode_check(view):
   if view.settings().get('is_widget') is None:
     disable_normal_mode(view)
