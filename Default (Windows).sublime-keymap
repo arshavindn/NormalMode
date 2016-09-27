@@ -1,3 +1,9 @@
 [
-	{ "keys": ["i", "i"], "command": "normal_mode"}
+  { "keys": ["i", "i"], "command": "normal_mode", "context":
+    [
+      { "key": "setting.command_mode", "operand": false },
+      { "key": "setting.is_widget", "operator": "equal", "operand": false },
+      { "key": "panel_has_focus", "operator": "equal", "operand": false }
+    ]
+  }
 ]

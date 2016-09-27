@@ -13,7 +13,7 @@ The default shortcut:
 "i" + "i"
 
 You can toggle via context-menus or shortcut or commnad pallate.
-If you toggle the normal mode, the status changes from NORMAL to INSERT or backwards.
+If you toggle the normal mode, the status changes from NORMAL to INSERT or or vice versa.
 
 This tool doesn't change the file properties in the filesystem. It only changes the readonly attribute of the current view.
 
